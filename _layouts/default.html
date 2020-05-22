@@ -14,7 +14,9 @@
       {%- include gtm_body.html -%}
       {%- endif -%}
 
+      {%- if site.data.about_content.size > 0 -%}
       {%- include about.html -%}
+      {%- endif -%}
 
       {%- if site.data.projects.size > 0 -%}
       {%- include projects.html -%}
