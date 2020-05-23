@@ -12,6 +12,7 @@ website: Your website (eg. https://google.com)(optional)
 # Dark Mode (true/false/never)
 darkmode: false
 
+
 # Social links
 twitter_username: jekyllrb
 github_username:  jekyll
